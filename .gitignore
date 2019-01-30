@@ -15,6 +15,10 @@
 *.iws
 *.iml
 *.ipr
+.mvn/wrapper/maven-wrapper.jar
+*.cmd
+*.mvnw
+
 
 ### NetBeans ###
 /nbproject/private/
